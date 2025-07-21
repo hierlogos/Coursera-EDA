@@ -1,12 +1,12 @@
 # Decoding Coursera: An EDA of Course Popularity and Quality
 
-## ℹ️ Description
+## Description
 
 This repository contains an Exploratory Data Analysis (EDA) performed on the popular "Coursera Course Dataset" from Kaggle. The primary goal is to uncover key patterns and insights related to course offerings, student enrollment, user ratings, difficulty levels, and provider characteristics on the Coursera platform.
 
 This analysis leverages core Python data science libraries for data manipulation and visualization, presenting findings in a structured Jupyter Notebook. It serves as a practical application of EDA techniques.
 
-## 💾 Dataset
+## Dataset
 
 The analysis is based on the **Coursera Course Dataset**.
 
@@ -15,7 +15,7 @@ The analysis is based on the **Coursera Course Dataset**.
 
 ⚠️ *Note: Please download the dataset directly from Kaggle via the link above.*
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Load, inspect and clean the data using Pandas
 
@@ -29,15 +29,15 @@ The analysis is based on the **Coursera Course Dataset**.
 
 - Structure and communicate findings to provide data driven insights
 
-## 🛠️ Libraries Used
+## Libraries Used
 * ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue)
-* 🐼 Pandas
-* 🔢 NumPy
-* 📊 Matplotlib
-* 🎨 Seaborn
-* 📓 Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-## 📦 Setup and Usage
+## Setup and Usage
 
 1.  **Clone the repository.**
 2.  **Ensure you have Python 3.x installed.**
@@ -52,7 +52,7 @@ Once the repository is cloned, the dataset is downloaded, and the dependencies a
 
 ⚠️ *Note: The `assets/` folder is intended for project-related images. It is not required for initial setup.*
 
-## 💡 Analysis Highlights & Key Findings
+## Analysis Highlights & Key Findings
 
 This EDA project progresses through several key stages, uncovering the following insights:
 
@@ -91,7 +91,7 @@ This EDA project progresses through several key stages, uncovering the following
 
 *(Visualizations used include histograms, count plots, box/violin plots, bar charts, scatter plots, and 2D density heatmaps.)*
 
-## 🚀 Future Work
+## Future Work
 
 Potential avenues for extending this analysis:
 
